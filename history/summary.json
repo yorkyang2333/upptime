@@ -76,19 +76,19 @@
     "url": "https://microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
     "slug": "microsoft",
-    "status": "down",
+    "status": "up",
     "uptime": "0.01%",
-    "uptimeDay": "0.97%",
+    "uptimeDay": "0.98%",
     "uptimeWeek": "0.14%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
-    "time": 1296,
-    "timeDay": 26141,
-    "timeWeek": 6613,
-    "timeMonth": 1733,
-    "timeYear": 1296,
+    "time": 1283,
+    "timeDay": 17489,
+    "timeWeek": 5899,
+    "timeMonth": 1686,
+    "timeYear": 1283,
     "dailyMinutesDown": {
-      "2026-11-14": 329,
+      "2026-11-14": 1427,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
@@ -173,7 +173,8 @@
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-08-21": 1336
+      "2026-08-21": 1336,
+      "2026-11-15": 13
     }
   },
   {
