@@ -40,19 +40,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "62.62%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.90%",
     "time": 107,
-    "timeDay": 218,
-    "timeWeek": 125,
+    "timeDay": 184,
+    "timeWeek": 124,
     "timeMonth": 114,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-11-19": 0
+      "2026-11-19": 538
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
     "slug": "microsoft",
-    "status": "up",
-    "uptime": "3.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "45.93%",
-    "uptimeMonth": "8.66%",
-    "uptimeYear": "3.56%",
-    "time": 1210,
-    "timeDay": 159,
-    "timeWeek": 5327,
-    "timeMonth": 1644,
-    "timeYear": 1210,
+    "status": "down",
+    "uptime": "3.96%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "51.28%",
+    "uptimeMonth": "9.89%",
+    "uptimeYear": "3.96%",
+    "time": 1198,
+    "timeDay": 149,
+    "timeWeek": 4855,
+    "timeMonth": 1601,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2026-11-14": 1427,
       "2026-11-13": 1440,
@@ -177,7 +177,8 @@
       "2026-08-22": 1440,
       "2026-08-21": 1336,
       "2026-11-15": 1307,
-      "2026-11-16": 361
+      "2026-11-16": 361,
+      "2026-11-19": 0
     }
   },
   {
