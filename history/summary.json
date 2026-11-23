@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "4.84%",
+    "uptime": "4.83%",
     "uptimeDay": "1.17%",
-    "uptimeWeek": "63.57%",
+    "uptimeWeek": "63.13%",
     "uptimeMonth": "13.06%",
-    "uptimeYear": "4.84%",
+    "uptimeYear": "4.83%",
     "time": 1135,
     "timeDay": 207,
     "timeWeek": 122,
@@ -180,7 +180,7 @@
       "2026-11-16": 361,
       "2026-11-20": 300,
       "2026-11-19": 377,
-      "2026-11-23": 196,
+      "2026-11-23": 389,
       "2026-11-22": 1440,
       "2026-11-21": 1211
     }
