@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 1395,
-    "timeWeek": 835,
-    "timeMonth": 595,
+    "timeWeek": 773,
+    "timeMonth": 564,
     "timeYear": 656,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 217,
-    "timeWeek": 176,
+    "timeWeek": 179,
     "timeMonth": 242,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.90%",
     "time": 107,
     "timeDay": 96,
-    "timeWeek": 124,
+    "timeWeek": 131,
     "timeMonth": 111,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 18,
-    "timeWeek": 237,
-    "timeMonth": 173,
+    "timeWeek": 210,
+    "timeMonth": 170,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,17 @@
     "url": "https://microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
     "slug": "microsoft",
-    "status": "down",
-    "uptime": "6.54%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "50.60%",
+    "status": "up",
+    "uptime": "6.53%",
+    "uptimeDay": "67.54%",
+    "uptimeWeek": "47.19%",
     "uptimeMonth": "18.94%",
-    "uptimeYear": "6.54%",
-    "time": 1081,
-    "timeDay": 155,
-    "timeWeek": 153,
-    "timeMonth": 1398,
-    "timeYear": 1081,
+    "uptimeYear": "6.53%",
+    "time": 1072,
+    "timeDay": 158,
+    "timeWeek": 152,
+    "timeMonth": 1389,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2026-11-14": 1427,
       "2026-11-13": 1440,
@@ -184,7 +184,8 @@
       "2026-11-22": 1440,
       "2026-11-21": 1211,
       "2026-11-24": 66,
-      "2026-11-25": 163
+      "2026-11-25": 239,
+      "2026-11-26": 268
     }
   },
   {
@@ -200,8 +201,8 @@
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 157,
-    "timeWeek": 172,
-    "timeMonth": 163,
+    "timeWeek": 173,
+    "timeMonth": 164,
     "timeYear": 173,
     "dailyMinutesDown": {}
   }
