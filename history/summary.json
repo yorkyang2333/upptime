@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 1199,
-    "timeWeek": 802,
-    "timeMonth": 579,
-    "timeYear": 656,
+    "time": 654,
+    "timeDay": 419,
+    "timeWeek": 791,
+    "timeMonth": 578,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 364,
-    "timeWeek": 189,
-    "timeMonth": 245,
-    "timeYear": 187,
+    "time": 186,
+    "timeDay": 60,
+    "timeWeek": 170,
+    "timeMonth": 243,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.90%",
     "time": 106,
-    "timeDay": 85,
+    "timeDay": 79,
     "timeWeek": 89,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2026-11-19": 538
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 128,
-    "timeWeek": 183,
+    "time": 201,
+    "timeDay": 46,
+    "timeWeek": 170,
     "timeMonth": 168,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "7.08%",
-    "uptimeDay": "60.52%",
-    "uptimeWeek": "46.53%",
-    "uptimeMonth": "20.96%",
-    "uptimeYear": "7.08%",
-    "time": 1045,
-    "timeDay": 399,
-    "timeWeek": 194,
-    "timeMonth": 1322,
-    "timeYear": 1045,
+    "uptime": "7.98%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "48.20%",
+    "uptimeMonth": "24.11%",
+    "uptimeYear": "7.98%",
+    "time": 1037,
+    "timeDay": 105,
+    "timeWeek": 203,
+    "timeMonth": 1323,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2026-11-14": 1427,
       "2026-11-13": 1440,
@@ -186,7 +186,7 @@
       "2026-11-24": 66,
       "2026-11-25": 239,
       "2026-11-26": 848,
-      "2026-11-27": 163
+      "2026-11-27": 192
     }
   },
   {
@@ -201,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 113,
-    "timeWeek": 145,
-    "timeMonth": 162,
+    "timeDay": 148,
+    "timeWeek": 159,
+    "timeMonth": 160,
     "timeYear": 171,
     "dailyMinutesDown": {}
   }
